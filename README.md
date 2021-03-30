@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harshit54
-- 
-- 🌱 I’m currently pursuing Computer Science and Engineering 
--           at the Indian Institute of Information Technology, Sonepat
--           
+
+- 📚 I’m currently pursuing my undergrad Computer Science
+- 🎓 From the Indian Institute of Information Technology, Sonepat
+          
 - 💞️ I’m looking to collaborate on any open source as well as research based projects.
 - 📫 Reach Me at harshitjoshi112@gmail.com
 
