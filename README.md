@@ -31,8 +31,7 @@
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=rounded&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=rounded&logo=Jira&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=harshit54&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit54&hide=TeX&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit54&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshit54.harshit54)
 
