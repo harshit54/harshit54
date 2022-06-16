@@ -5,6 +5,7 @@
           
 - 💞️ I’m looking to collaborate on any open source as well as research based projects.
 - 📫 Reach me at
+
 [![Linkedin Badge](https://img.shields.io/badge/-harshit54-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit54)](https://www.linkedin.com/in/harshit54)
 [![Gmail Badge](https://img.shields.io/badge/-harshitjoshi112@gmail.com-c14438?style=rounded&logo=Gmail&logoColor=white&link=mailto:harshitjoshi112@gmail.com)](mailto:harshitjoshi112@gmail.com)
 [![Stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/5261287/harshit-joshi)
