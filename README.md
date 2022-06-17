@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit!
 
 - 📚 I’m currently pursuing my undergrad in Computer Science
-- 🎓 From the Indian Institute of Information Technology, Sonepat
+- 🎓 at Indian Institute of Information Technology, Sonepat
           
 - 💞️ I’m looking to collaborate on any open source as well as research based projects.
 - 📫 Reach me at
